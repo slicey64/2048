@@ -7,7 +7,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 ### Contributions
 
-[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
+[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for the original repository. [koolaid12341](https://github.com/koolaid12341) is the maintainer of this repository.
 
 Other notable contributors:
 
